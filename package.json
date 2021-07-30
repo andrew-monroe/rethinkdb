@@ -1,6 +1,6 @@
 {
   "name": "@types/rethinkdb",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Types for https://github.com/rethinkdb/rethinkdb",
   "typings": "rethinkdb.d.ts",
   "scripts": {
